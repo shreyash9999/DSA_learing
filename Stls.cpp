@@ -1,0 +1,2 @@
+//sttandrad templet  liabry STL
+
